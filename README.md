@@ -1,4 +1,4 @@
 # Gymanager
- management software for personal trainers and athlete
-The Gymanager it's a software that has the purpose to assist personal trainers and his atlhetes.
-In the software you're able to create and manage series and physical evaluation for you and your athletes.
+Software de gerenciamento para personal trainers e atletas
+O Gymanager é um software que tem como objetivo auxiliar personal trainers e seus atletas.
+No software você consegue criar e gerenciar séries e avaliações físicas para você e seus atletas.
